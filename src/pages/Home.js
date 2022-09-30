@@ -23,7 +23,7 @@ export default function Home(){
     return(
         <View style={styles.container}>
 
-            <Text style={styles.titulo}>Projeto Converção de real para dolar</Text>
+            <Text style={styles.titulo}>Vefificação de par ou impar</Text>
 
             <TextInput onChangeText={setNumero} style={styles.campo} placeholder="Digite o número para verifição"></TextInput>
 
